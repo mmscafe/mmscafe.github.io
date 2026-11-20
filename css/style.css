@@ -807,8 +807,7 @@ body.theme-bar { position: relative; }
   margin-top: 2px;
   font-size: 0.75rem;
   color: var(--muted);
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  letter-spacing: 0.01em;
   font-weight: 600;
 }
 

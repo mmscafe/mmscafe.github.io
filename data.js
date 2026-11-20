@@ -7,7 +7,7 @@ window.ZODIAC = {
     {
       id: "binh-thanh",
       title: "MMS CAFE [Binh\u00A0Thanh]",
-      shortLabel: "Binh\u00A0Thanh",
+      shortLabel: "113 Võ Oanh, Binh Thanh, HCM",
       menu: [
         { src: "menu/binh-thanh/01-drinks-food-menu.jpg", title: "DRINKS & FOOD MENU" },
         { src: "menu/binh-thanh/02-service-menu.jpg", title: "SERVICE MENU (STUDY · BED · PC)" },
@@ -43,7 +43,7 @@ window.ZODIAC = {
     {
       id: "quan9",
       title: "MMS CAFE [Quận\u00A09]",
-      shortLabel: "Quận\u00A09",
+      shortLabel: "224A Lê Văn Việt, Quận 9, HCM",
       menuComingSoonToast: "Quận 9 menu photos will be added soon.",
       menu: [
         { src: "menu/quan-9/01-drinks-food-menu.jpg", title: "DRINKS & FOOD MENU" },
