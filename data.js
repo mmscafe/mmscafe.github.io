@@ -46,7 +46,11 @@ window.ZODIAC = {
       shortLabel: "Quận\u00A09",
       menuComingSoonToast: "Quận 9 menu photos will be added soon.",
       menu: [
-        { src: "menu/quan-9/01-drinks-food-menu.jpg", title: "DRINKS & FOOD MENU" }
+        { src: "menu/quan-9/01-drinks-food-menu.jpg", title: "DRINKS & FOOD MENU" },
+        { src: "menu/quan-9/02-sing-song-menu.jpg", title: "SING & SONG MENU" },
+        { src: "menu/quan-9/03-golden-hour.jpg", title: "GOLDEN HOUR KARAOKE" },
+        { src: "menu/quan-9/04-bedroom.jpg", title: "BEDROOM SERVICE" },
+        { src: "menu/quan-9/05-special-offers.jpg", title: "SPECIAL OFFERS" }
       ],
       links: [
         {
